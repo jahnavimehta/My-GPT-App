@@ -23,8 +23,11 @@ completing sentences, and more.
 
 ## Screenshots
 <p>Some screenshots of the app for a preview of the user interface and functionalities.</p>
-![Screenshot_20230723_183844](https://github.com/jahnavimehta/My-GPT-App/assets/97538596/6b2cbb5e-cc2a-4a9d-b774-87f2bc944d51)
-![Screenshot_20230723_183857](https://github.com/jahnavimehta/My-GPT-App/assets/97538596/5e39fc01-604c-4b27-8a31-db79fa0b091b)
+<p align="center">
+  <img src="https://github.com/jahnavimehta/My-GPT-App/assets/97538596/6b2cbb5e-cc2a-4a9d-b774-87f2bc944d51.png" alt="Screenshot 1" width="400"/>
+  <img src="https://github.com/jahnavimehta/My-GPT-App/assets/97538596/5e39fc01-604c-4b27-8a31-db79fa0b091b.png" alt="Screenshot 2" width="400"/>
+</p>
+
 
 
 
